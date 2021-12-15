@@ -1,11 +1,16 @@
 _repo: Automatic-finger-control-Seventh-Edition_66816
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66816-h/images/cover.jpg
 creator:
   author:
     agent_name: Music, U. S. School of
     gutenberg_agent_id: '53977'
     url: http://www.gutenberg.org/2009/agents/53977
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66816#Automatic-finger-control-Seventh-Edition
 gutenberg_issued: '2021-11-24'
 identifiers:
   gutenberg: '66816'
